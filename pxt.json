@@ -1,7 +1,7 @@
 {
      "name": "jcjh1",
      "version": "0.0.1",
-     "description": "copyright belongs to kodorobot",
+     "description": "Copyright belongs to jcjh",
      "license": "MIT",
      "dependencies":{
           "core": "*"

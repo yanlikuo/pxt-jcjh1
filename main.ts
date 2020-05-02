@@ -14,7 +14,7 @@ namespace jcjh1 {
     //% tname.fieldOptions.columns=3
     //% tvalue.defl=0
     //% tvalue.min=0
-    //% tvale.max=1
+    //% tvalue.max=1
     export function digital_writepin(tname: DigitalPin, tvalue: number): vioid{
     pins.digitalWritePin(tname, tvalue)
     }

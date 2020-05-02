@@ -3,9 +3,9 @@
  * The most important macro "block" specifies that a block should be generated for a **exported** function.
  */
  
-//% block="jcjh1" color="#AA278D" 
+//% block="test050201" color="#AA278D" 
 
-namespace jcjh1 {
+namespace test050201 {
 
 
     //% weight=20

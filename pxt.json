@@ -1,16 +1,15 @@
 {
-     "name": "jcjh1",
-     "version": "0.0.1",
-     "description": "copyright belongs to kodorobot",
-     "license": "MIT",
-     "dependencies":{
-          "core": "*"
-     },
-     "files":[
-         "main.ts",
-         "README.md"
-     ],
-         "public":true
-         
-}
-          
+    "name": "jcjh1", 
+    "version": "0.0.1", 
+    "description": "Copyright belongs to kodorobot", 
+    "license": "MIT", 
+    "dependencies": { 
+        "core": "*"
+    },
+    "files": [ 
+        "main.ts",
+        "README.md"
+    ],
+
+    "public": true
+}     
